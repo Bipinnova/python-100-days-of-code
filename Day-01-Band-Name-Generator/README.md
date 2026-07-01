@@ -31,7 +31,9 @@ Although the logic is simple, this project reinforces the importance of user inp
 * Input Function
 * Print Function
 * String Concatenation
+* f String
 * Basic Program Flow
+
 
 ---
 
